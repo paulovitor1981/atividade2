@@ -1,0 +1,47 @@
+{
+  "noticias": [
+    {
+      "id": 1,
+      "imagem": "",
+      "titulo": "Hoje tá frio",
+      "descricao": "Hoje em São Paulo tá mto frio"
+    },
+    {
+      "id": 2,
+      "imagem": "",
+      "titulo": "Hoje tá frio",
+      "descricao": "Hoje em São Paulo tá mto frio"
+    },
+    {
+      "id": 3,
+      "imagem": "",
+      "titulo": "Hoje tá frio",
+      "descricao": "Hoje em São Paulo tá mto frio"
+    },
+    {
+      "id": 4,
+      "imagem": "",
+      "titulo": "Hoje tá frio",
+      "descricao": "Hoje em São Paulo tá mto frio"
+    },
+    {
+      "id": 5,
+      "imagem": "",
+      "titulo": "Hoje tá frio",
+      "descricao": "Hoje em São Paulo tá mto frio"
+      
+    },
+    {
+      "id": 6,
+      "imagem": "",
+      "titulo": "Hoje tá frio",
+      "descricao": "Hoje em São Paulo tá mto frio"
+    },
+    {
+      "imagem": "",
+      "titulo": "amanha vai estar calor ",
+      "descricao": "Hoje em São Paulo tá mto frio",
+      "id": 7
+    }
+  ]
+}
